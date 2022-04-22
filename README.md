@@ -1,6 +1,6 @@
 # Hey guys! 👋
   
-<p>I'm <b>Matheus</b>, Pleno Frontend Developer from <img  src="https://icons.iconarchive.com/icons/wikipedia/flags/256/BR-Brazil-Flag-icon.png"  width="13"/> <b>São Paulo</b>, currently living in <b>Osasco</b>. </p>
+<p>I'm <b>Matheus</b>, Frontend Developer from <img  src="https://icons.iconarchive.com/icons/wikipedia/flags/256/BR-Brazil-Flag-icon.png"  width="13"/> <b>São Paulo</b>, currently living in <b>Osasco</b>. </p>
 
 <h3>Skills</h3>
 <p>
