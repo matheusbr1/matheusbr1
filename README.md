@@ -4,24 +4,16 @@
 
 <h3>Skills</h3>
 <p>
-<img  alt="app"  src="https://img.shields.io/badge/-APP-DD0031?style=flat-square&logo=react&logoColor=white" />
 <img  alt="Bootstrap"  src="https://img.shields.io/badge/-Bootstrap-5e4d85?style=flat-square&logo=Bootstrap&logoColor=white" />
 <img  alt="CSS"  src="https://img.shields.io/badge/-CSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img  alt="Docker"  src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-<img  alt="Expo"  src="https://img.shields.io/badge/-Expo-000000?style=flat-square&logo=expo&logoColor=white" />
-<br>
 <img  alt="git"  src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img  alt="html5"  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img  alt="Insomnia"  src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
 <img  alt="javascript"  src="https://img.shields.io/badge/-Javascript-ffff00?style=flat-square&logo=javascript&logoColor=black" />
-<img  alt="jquery"  src="https://img.shields.io/badge/-Jquery-007ACC?style=flat-square&logo=jquery&logoColor=white" />
-<br>
 <img  alt="json"  src="https://img.shields.io/badge/-Json-F05032?style=flat-square&logo=json&logoColor=white" />
 <img  alt="Nodejs"  src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img  alt="npm"  src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img  alt="Postman"  src="https://img.shields.io/badge/-Postman-FB542B?style=flat-square&logo=postman&logoColor=white" />
 <img  alt="React"  src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<br>
 <img  alt="React Native"  src="https://img.shields.io/badge/-React Native-45b8f9?style=flat-square&logo=React&logoColor=white" />
 <img  alt="TypeScript"  src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </p>
